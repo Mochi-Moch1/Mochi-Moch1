@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Mochi-Moch1
 - 👀 I’m interested in Machine Learning and NLP.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning and Docker.
 
 <!---
 Mochi-Moch1/Mochi-Moch1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
