@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Mochi-Moch1
 - 👀 I’m interested in Machine Learning and NLP.
 
-#### I’m currently learning:
+### I’m currently learning:
 [![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)]()
 [![](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)]()
 [![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)]()
