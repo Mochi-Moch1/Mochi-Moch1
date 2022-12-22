@@ -1,6 +1,6 @@
 # Hi there👋
 
-- 👋 Hi, I’m Mochi-Moch1
+- 👋 Hi, I’m Mochi
 - 👀 I’m interested in Machine Learning and NLP.
 
 ### I’m currently learning:
